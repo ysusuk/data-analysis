@@ -3,5 +3,6 @@ target/*
 venv/*
 .coverage
 \#
+.mypy_cache
 
 *.png
